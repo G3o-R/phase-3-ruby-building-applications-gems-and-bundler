@@ -457,3 +457,5 @@ everything!
 
 [git-bundler]: https://bundler.io/guides/git.html
 [ruby gems]: https://rubygems.org
+
+https://github.com/G3o-R/phase-3-ruby-building-applications-gems-and-bundler
